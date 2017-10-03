@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "HeosS"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HeosS/Cordova-plugin-firebase-mat"
+  },
+  "name": "cordova-plugin-firebase-mat",
+  "version": "1.0",
+  "description": "Cordova plugin for Google Firebase",
+  "cordova": {
+    "id": "cordova-plugin-firebase-mat",
+    "platforms": [
+      "android",
+      "ios",
+      "browser"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-browser",
+    "firebase",
+    "push",
+    "notifications"
+  ]
+}
