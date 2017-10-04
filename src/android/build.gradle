@@ -4,7 +4,6 @@ buildscript {
     }
     dependencies {
         classpath 'com.google.gms:google-services:3.1.0'
-        compile 'com.google.firebase:firebase-core:11.4.2'
     }
 }
 repositories {
