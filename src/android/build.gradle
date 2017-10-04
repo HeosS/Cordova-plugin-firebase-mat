@@ -10,6 +10,9 @@ repositories {
     mavenCentral()
 }
 dependencies {
+    compile 'com.android.support:appcompat-v7:23.1.1'
+    compile 'com.android.support:recyclerview-v7:23.1.1'
+
     compile 'me.leolin:ShortcutBadger:1.1.4@aar'
     compile 'com.google.firebase:firebase-analytics:11.4.2'
 }
