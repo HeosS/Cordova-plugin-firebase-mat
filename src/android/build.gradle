@@ -7,6 +7,9 @@ buildscript {
         classpath 'com.google.gms:google-services:3.0.0'
     }
 }
+android {
+    buildToolsVersion "21.0.1"
+}
 repositories {
     mavenCentral()
 }
